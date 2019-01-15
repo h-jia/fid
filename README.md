@@ -1,4 +1,4 @@
-# FID score in PyTorch
+# FID score (GAN performace) in PyTorch
 
 ## Requirements:
 - pytorch
